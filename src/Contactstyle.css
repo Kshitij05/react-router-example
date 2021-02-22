@@ -1,0 +1,11 @@
+.Contactstyle{
+  width:100%;
+  height:300px;
+  background:#7bed9f;
+  color:white;
+  display: flex;
+  /* Should justify horizontally */
+  flex-direction: column;
+
+  align-items: center;
+}

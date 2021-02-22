@@ -1,0 +1,11 @@
+.Aboutstyle{
+  width:100%;
+  height:300px;
+  background:#badc58;
+  color:white;
+  display: flex;
+  /* Should justify horizontally */
+  justify-content: center;
+  /* Should justify vertically */
+  align-items: center;
+}
